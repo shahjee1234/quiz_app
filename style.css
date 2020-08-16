@@ -1,0 +1,49 @@
+.signIn-main{
+    margin: 3% auto 3% auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 350px;
+    height: 275px;
+}
+
+.header{
+    margin: 10px auto 10px auto;
+    position: relative;
+    left: 350px;
+    color: #563d7c;
+}
+
+.quiz-main{
+    padding: 10px;
+  position: relative;
+  margin: 10px auto 10px auto;
+  left: 25px;
+  top: 150px;
+  border: 10px double black;
+  width: 500px;
+}
+
+#quiz-head{
+    margin: 10px auto 10px auto;
+    position: relative;
+    color: #563d7c;
+    left: 100px;
+} 
+
+.resultMain{
+    padding: 10px;
+  position: relative;
+  margin: 10px auto 10px auto;
+  left: 25px;
+  top: 150px;
+  width: 500px;
+}
+
+#resultHead{
+    color: #563d7c;
+}
+
+#resultText{
+    font-size: 100px;
+}
